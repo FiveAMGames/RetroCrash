@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EnemyScript.cs">
+    <Files>
+      <File FileName="Assets\EnemyScript.cs" Line="19" Column="38" />
+      <File FileName="Assets\Platform.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\StampScript.cs" Line="26" Column="44" />
+      <File FileName="Assets\GameController.cs" Line="49" Column="35" />
+      <File FileName="Assets\EnemyStamp.cs" Line="20" Column="3" />
+      <File FileName="Assets\EnemyPregnant.cs" Line="20" Column="3" />
+      <File FileName="Assets\LifeTime.cs" Line="6" Column="26" />
+      <File FileName="Assets\LessExpEnemy.cs" Line="16" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
